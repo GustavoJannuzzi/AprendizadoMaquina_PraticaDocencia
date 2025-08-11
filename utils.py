@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+import streamlit as st
 
 # Função para gerar EDA (Exploratory Data Analysis)
 def generate_eda(df):
